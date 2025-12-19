@@ -1,6 +1,6 @@
 # Calendar Schedule (Next 3 Months)
 
-Generated: 2025-12-19 13:53
+Generated: 2025-12-19 13:56
 
 | Date | Day | Time | Event | Type | Location |
 |------|-----|------|-------|------|----------|
@@ -12,6 +12,7 @@ Generated: 2025-12-19 13:53
 | | | 07:00 PM - 10:00 PM | Busy - Block | Event | - |
 | Dec 24, 2025 | Wed | - | **FREE** | - | - |
 | Dec 25, 2025 | Thu | 09:00 AM - 04:00 PM | Busy - Work Block | Event | - |
+| | | 06:00 PM - 10:00 PM | XMAS Gathering | Event | 560565, Amk Ave 3 #03-3421 |
 | Dec 26, 2025 | Fri | - | **FREE** | - | - |
 | Dec 27, 2025 | Sat | - | **FREE** | - | - |
 | Dec 28, 2025 | Sun | - | **FREE** | - | - |
