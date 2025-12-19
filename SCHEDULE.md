@@ -1,6 +1,6 @@
 # Calendar Schedule (Next 3 Months)
 
-Generated: 2025-12-19 13:56
+Generated: 2025-12-19 22:31
 
 | Date | Day | Time | Event | Type | Location |
 |------|-----|------|-------|------|----------|
@@ -33,11 +33,15 @@ Generated: 2025-12-19 13:56
 | Jan 10, 2026 | Sat | 09:00 AM - 12:00 PM | CS105 - Physical Lecture | Class | - |
 | Jan 11, 2026 | Sun | - | **FREE** | - | - |
 | Jan 12, 2026 | Mon | All Day | CORELAN X REDFACE Heap Exploitation Training | Event | - |
+| | | 09:00 AM - 06:00 PM | Corelan Heap Exploitation Training (Day 1) | Event | - |
 | Jan 13, 2026 | Tue | 09:00 AM - 04:00 PM | Busy - Work Block | Event | - |
+| | | 09:00 AM - 06:00 PM | Corelan Heap Exploitation Training (Day 2) | Event | - |
 | | | 07:00 PM - 10:00 PM | Busy - Block | Event | - |
 | Jan 14, 2026 | Wed | 09:00 AM - 12:00 PM | CS105 - Lecture | Class | - |
+| | | 09:00 AM - 06:00 PM | Corelan Heap Exploitation Training (Day 3) | Event | - |
 | Jan 15, 2026 | Thu | 09:00 AM - 04:00 PM | Busy - Work Block | Event | - |
-| Jan 16, 2026 | Fri | - | **FREE** | - | - |
+| | | 09:00 AM - 06:00 PM | Corelan Heap Exploitation Training (Day 4) | Event | - |
+| Jan 16, 2026 | Fri | 09:00 AM - 06:00 PM | Corelan Heap Exploitation Training (Day 5) | Event | - |
 | Jan 17, 2026 | Sat | 09:00 AM - 12:00 PM | CS105 - Physical Lecture | Class | - |
 | Jan 18, 2026 | Sun | - | **FREE** | - | - |
 | Jan 19, 2026 | Mon | - | **FREE** | - | - |
